@@ -11,9 +11,6 @@
     "preview": "astro preview",
     "astro": "astro"
   },
-  "pnpm": {
-    "onlyBuiltDependencies": ["esbuild"]
-  },
   "dependencies": {
     "astro": "^7.0.9"
   }
