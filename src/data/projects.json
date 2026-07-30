@@ -4,8 +4,8 @@
     "description": "Gestiono las redes sociales con Meta Business Suite, Canva y página web, donde trabajé con WordPress. ",
     "images": ["cndigital.jpg"],
     "tech": ["WordPress", "PHP", "cloud hosting", "SEO", "Marketing"],
-    "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
+    "platforms": ["instagram","web"],
+    "link": "https://www.instagram.com/cotillonews.ok/",
     "category": "Published Website"
   },
   {
@@ -13,8 +13,8 @@
     "description": "Armé una app prototipo de un marketplace sobre comercios locales.",
     "images": ["appmark.png", "#"],
     "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
+    "platforms": ["apple-ios", "android", "web"],
+    "link": "https://ibl-marketplace-28d92.web.app/",
     "category": "Hobby"
   }
 ]
