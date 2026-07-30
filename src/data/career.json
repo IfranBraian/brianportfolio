@@ -1,26 +1,21 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
+    "company": "Cotillon News Digital",
+    "role": "Desarrollador Web Full Stack/Gestor de Contenido",
+    "period": "10/07/2024 - Presente",
     "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "description": "Gestiono las redes sociales con Meta Business Suite, Canva y Página web, donde trabajé con WordPress.",
+    "skills": ["Liderazgo", "Colaboración", "Responsabilidad", "Trabajo en Equipo", "Resolución de Problemas"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
+    "company": "DAP Noticias",
+    "role": "Desarrollador Web Full Stack/Gestor de Contenido",
+    "period": "11/06/2023 - 11/09/2024",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "description": "Mi primera experiencia laboral en el mundo del desarrollo web, donde trabajé con WordPress y PHP, también realicé tareas de soporte técnico y mantenimiento de las plataformas.",
+    "skills": ["Editor de videos", "Marketing Digital", "Planificación de contenido", "Gestión de redes sociales"]
   },
+  
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
   }
 ]
