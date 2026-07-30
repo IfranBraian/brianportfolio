@@ -25,6 +25,8 @@
     "typescript": "^5.9.3"
   },
   "devDependencies": {
+    "@iconify-json/cryptocurrency-color": "^1.2.4",
+    "@iconify-json/simple-icons": "^1.2.92",
     "@tailwindcss/postcss": "^4.3.3"
   }
 }
