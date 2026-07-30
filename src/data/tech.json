@@ -43,7 +43,7 @@
         { "name": "IA", "level": 2, "icon": "skill-icons:aiscript-dark" },
         { "name": "Terminal", "level": 2, "icon": "skill-icons:bash-dark" },
         { "name": "Cryptos", "level": 2, "icon": "mdi:bitcoin" },
-        { "name": "Bots", "level": 2, "icon": "iconify fa7-brands--bots" }
+        { "name": "Bots", "level": 2, "icon": "mdi:robot" }
       ]
     }
   ]
