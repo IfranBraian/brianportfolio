@@ -1,17 +1,17 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "Canal de Noticias",
+    "description": "Gestiono las redes sociales con Meta Business Suite, Canva y página web, donde trabajé con WordPress. ",
+    "images": ["cndigital.jpg"],
+    "tech": ["WordPress", "PHP", "cloud hosting", "SEO", "Marketing"],
     "platforms": ["web"],
     "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
     "category": "Published Website"
   },
   {
     "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
+    "description": "Armé una app prototipo de un marketplace sobre comercios locales.",
+    "images": ["appmark.png", "#"],
     "tech": ["Flutter", "Dart", "REST API"],
     "platforms": ["apple-ios", "android"],
     "link": "https://github.com/nbakh16/career-portfolio-template",
