@@ -13,7 +13,10 @@
       "skills": [
         { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
         { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
+        { "name": "WordPress", "level": 2, "icon": "skill-icons:wordpress-dark" },
+        { "name": "JavaScript", "level": 2, "icon": "skill-icons:javascript-dark" },
         { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
+        { "name": "Bootstrap", "level": 1, "icon": "skill-icons:bootstrap-dark" },
         { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
       ]
     },
@@ -21,15 +24,26 @@
       "title": "Backend",
       "skills": [
         { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "PHP", "level": 2, "icon": "skill-icons:php-dark" },
+        { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" },
+        { "name": "Firebase", "level": 1, "icon": "vscode-icons:file-type-firebase" }
       ]
     },
     {
       "title": "Database",
       "skills": [
         { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" },
+        { "name": "MySQL", "level": 2, "icon": "skill-icons:mysql-dark" }
+      ]
+    },
+    {
+      "title": "Extras",
+      "skills": [
+        { "name": "IA", "level": 2, "icon": "mdi:robot-outline" },
+        { "name": "Terminal", "level": 2, "icon": "skill-icons:bash" },
+        { "name": "Cryptos", "level": 2, "icon": "logos:bitcoin" },
+        { "name": "Bots", "level": 2, "icon": "mdi:robot-happy-outline" }
       ]
     }
   ]
