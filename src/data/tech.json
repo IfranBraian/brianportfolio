@@ -38,6 +38,13 @@
       ]
     },
     {
+      "title": "Control de Versiones",
+      "skills": [
+        { "name": "Git", "level": 3, "icon": "skill-icons:git" },
+        { "name": "GitHub", "level": 2, "icon": "skill-icons:github-dark" }
+      ]
+    },
+    {
       "title": "Extras",
       "skills": [
         { "name": "IA", "level": 2, "icon": "skill-icons:aiscript-dark" },
