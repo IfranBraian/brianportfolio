@@ -32,7 +32,7 @@
     {
       "title": "Database",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
+        { "name": "SQLite", "level": 2, "icon": "skill-icons:sqlite" },
         { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" },
         { "name": "MySQL", "level": 2, "icon": "skill-icons:mysql-dark" }
       ]
@@ -40,7 +40,7 @@
     {
       "title": "Control de Versiones",
       "skills": [
-        { "name": "Git", "level": 3, "icon": "skill-icons:git" },
+        { "name": "Git", "level": 2, "icon": "skill-icons:git" },
         { "name": "GitHub", "level": 2, "icon": "skill-icons:github-dark" }
       ]
     },
